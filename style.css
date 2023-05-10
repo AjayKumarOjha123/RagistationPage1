@@ -1,0 +1,35 @@
+h1 {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+
+
+}
+
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div {
+    text-align: center;
+}
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+button {
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    
+}
+.radio{
+    size: 100px;
+}
+.sonu{
+    background-image: url(MyWebsite/sonu.jpg);
+}
+.sannu{
+    font-size: 25px;
+}
+.ajay{
+    size: 20px;
+}
